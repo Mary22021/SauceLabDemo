@@ -1,0 +1,13 @@
+{
+  "nom": "Jean",
+  "age": 30,
+  "adresse": {
+    "rue": "123 rue des fleurs",
+    "ville": "Paris"
+  },
+  "langages": [
+    "Java",
+    "Python",
+    "C++"
+  ]
+}
